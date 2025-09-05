@@ -7,13 +7,6 @@
 
 A modern, full-stack task management application built with the **MERN Stack** (MongoDB, Express.js, React, Node.js) featuring secure user authentication, real-time updates, and comprehensive CRUD operations.
 
-## 🚀 Live Demo
-
-*[Add your deployed application link here]*
-
-## 📸 Screenshots
-
-*[Add screenshots of your application here]*
 
 ## ✨ Features
 
